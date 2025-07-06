@@ -1,0 +1,23 @@
+{
+  "name": "sp-react",
+  "version": "1.0.0",
+  "description": "This is ReactJs by Saroj",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Saroj-K-Panda/ReactJS.git"
+  },
+  "keywords": [
+    "react",
+    "ignitewith",
+    "react"
+  ],
+  "author": "SP",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
