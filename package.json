@@ -1,9 +1,9 @@
 {
-  "name": "sp-react",
+  "name": "reactjs",
   "version": "1.0.0",
   "description": "This is ReactJs by Saroj",
-  "main": "App.js",
   "scripts": {
+    "start": "parcel index.html",
     "test": "jest"
   },
   "repository": {
@@ -19,5 +19,9 @@
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   }
 }
